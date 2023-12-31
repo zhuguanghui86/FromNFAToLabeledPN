@@ -1,6 +1,6 @@
 % MATLAB codes for Application Example 1
-% Note that we modify the NFA2PN function and its new function is NFA2PNApplicationExample_1
-% Please see the function NFA2PNApplicationExample_1( ) defined in this document.
+% Note that we simply modify the NFA2PN function and the new function is NFA2PNApplicationExampleOne( ).
+% Please see Line 50 for the implemetation of function NFA2PNApplicationExampleOne( ).
 
 m = 9;
 n = 6;
